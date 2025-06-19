@@ -42,7 +42,8 @@ pip install opencv-python imutils pyttsx3
 ### 1️⃣ Clone the Repo
 ```bash
 git clone https://github.com/mrvarsha-2006/Moving-object-detection-with-Voice-Alert-System/blob/main/moving_object.py
-cd motion-detection-system
+cd Moving-object-detection-with-Voice-Alert-System
+
 ```
 
 ### 2️⃣ Run the Script
